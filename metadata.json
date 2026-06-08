@@ -1,0 +1,6 @@
+{
+  "name": "Contrôle Parental",
+  "description": "Tableau de bord de contrôle parental",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
